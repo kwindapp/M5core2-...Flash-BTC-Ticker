@@ -1,6 +1,7 @@
-use this flasher with the this settings
+use this Flasher with the this settings
 https://esp.huhn.me/
-
+our webflasher will be soon ready
+https://get.kwind.app/flasher
 
 
 
